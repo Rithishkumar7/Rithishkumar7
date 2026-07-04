@@ -171,8 +171,8 @@ Built to track daily consistency and placement preparation progress.
 
 ## 🤝 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 📧 Email: rithishjanjeerapu007@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/Rithish_janjeerapu
 - 🌐 Portfolio: Coming Soon
 - 🐙 GitHub: https://github.com/Rithishkumar7
 
