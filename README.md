@@ -173,7 +173,7 @@ Built to track daily consistency and placement preparation progress.
 
 - 📧 Email: rithishjanjeerapu007@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/Rithish_janjeerapu
-- 🌐 Portfolio: Coming Soon
+- 🌐 Portfolio: https://portfolio-beige-two-m2omb91jqv.vercel.app/
 - 🐙 GitHub: https://github.com/Rithishkumar7
 
 ---
