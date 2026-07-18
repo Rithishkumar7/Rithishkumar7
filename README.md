@@ -1,181 +1,249 @@
-# Hi, I'm Rithish Janjeerapu 👋
-
 <div align="center">
 
-### AI Enthusiast | Full Stack Developer | Computer Science Student
+# Hi 👋, I'm Rithish Janjeerapu
 
-Building intelligent applications with AI, modern web technologies, and scalable software solutions.
+### AI Engineer • Full Stack Developer • Computer Science Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Building+AI+Applications;Generative+AI+Developer;Full+Stack+Engineer;Always+Learning+🚀" />
+
+<p>
+<a href="https://portfolio-beige-two-m2omb91jqv.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/Rithish_janjeerapu">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rithishjanjeerapu007@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Rithishkumar7&style=flat-square&color=green"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-I'm a Computer Science undergraduate passionate about developing real-world software products and AI-powered applications.
+💻 Computer Science undergraduate passionate about building **AI-powered software** and **full-stack applications**.
 
-My interests lie at the intersection of:
+I enjoy solving real-world problems using
 
-- 🤖 Artificial Intelligence & Generative AI
-- 🌐 Full Stack Web Development
-- 📊 Data Analytics & Visualization
-- 🧠 Problem Solving & Algorithms
-- ☁️ Building Scalable Applications
+- 🤖 Generative AI
+- 🧠 Machine Learning
+- 🌐 Full Stack Development
+- 📊 Data Analytics
+- ☁️ Cloud-ready Applications
 
-I enjoy transforming ideas into functional products while continuously learning new technologies and engineering best practices.
+Currently exploring
 
----
-
-## 🎓 Education
-
-**Bachelor of Engineering (Computer Science)**  
-Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad  
-**CGPA:** 8.61
-
-**Diploma in Computer Science**  
-Govt. Institute of Electronics, Telangana  
-**GPA:** 9.5 / 10
+- Agentic AI
+- Advanced RAG
+- LangGraph
+- MLOps
+- Backend System Design
 
 ---
 
-## 🛠 Tech Stack
+# 🎓 Education
 
-### Languages
+### Chaitanya Bharathi Institute of Technology (CBIT)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**B.E. Computer Science**
 
-### Frontend
+CGPA **8.61**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+### Government Institute of Electronics
 
-### Backend
+**Diploma in Computer Science**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### AI & Data Science
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+GPA **9.5/10**
 
 ---
 
-## 📈 Coding Achievements
+# 🚀 Tech Stack
 
-🏆 Solved **400+ LeetCode Problems**
+## Languages
 
-⭐ 4-Star in Problem Solving on HackerRank
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,mysql"/>
+</p>
 
-⭐ 3-Star in SQL on HackerRank
+## Frontend
 
-🥈 Rank **2449** in Amazon ML Challenge 2025
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
+</p>
 
-🎖 Special Mention - Hacktober Fest Hackathon @ CBIT
+## Backend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
 
-## 🔥 Featured Projects
+## AI / ML
 
-### 📄 Multi-Format Document RAG System
+<p>
 
-AI-powered Retrieval-Augmented Generation system supporting multiple document formats.
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
 
-**Tech Stack:** LangChain, FAISS, Groq, Llama 3.1, Streamlit
+<img src="https://img.shields.io/badge/LangGraph-purple?style=for-the-badge"/>
 
-**Features**
-- Multi-format document ingestion
-- Semantic search using embeddings
-- Context-aware question answering
-- Efficient vector retrieval
+<img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/Groq-orange?style=for-the-badge"/>
 
-### 📝 AI-Powered Blog Website
+<img src="https://img.shields.io/badge/Llama3.1-green?style=for-the-badge"/>
 
-Full-stack blogging platform with AI-assisted content generation.
-
-**Tech Stack:** React, Node.js, Express, MongoDB, OpenAI/Eden AI
-
-**Features**
-- Intelligent blog generation
-- Modern responsive UI
-- User authentication
-- Content management system
+</p>
 
 ---
 
-### 🍽 Food Product Authenticator Using OCR
+# 🏆 Achievements
 
-OCR-based verification system for food license authentication.
+🏅 Solved **500+ LeetCode Problems**
 
-**Features**
-- Automated text extraction
-- License validation
-- Fraud detection support
-- Dashboard for verification monitoring
+⭐ 4★ Problem Solving — HackerRank
+
+⭐ 3★ SQL — HackerRank
+
+🥈 **Amazon ML Challenge 2025**
+Rank **2449**
+
+🎖 Special Mention — Hacktober Fest Hackathon @ CBIT
 
 ---
 
-### 📊 Placement Tracker
+# 🔥 Featured Projects
 
-Comprehensive preparation dashboard for:
+## 📄 Multi-Format Document RAG System
+
+> AI-powered Retrieval-Augmented Generation platform supporting multiple document formats.
+
+**Tech**
+
+`LangChain` `FAISS` `Groq` `Llama 3.1` `Streamlit`
+
+✨ Features
+
+- Multi-format ingestion
+- Semantic Search
+- Context-aware QA
+- Vector Database Retrieval
+
+---
+
+## 🧠 AI Meeting & Lecture Intelligence Platform *(Upcoming)*
+
+An enterprise AI assistant that combines
+
+- WhisperX
+- Speaker Diarization
+- RAG
+- Semantic Search
+- Knowledge Graph
+- Analytics Dashboard
+- Meeting Intelligence
+
+---
+
+## 📝 AI Blog Platform
+
+AI-assisted blogging platform.
+
+Tech Stack
+
+React • Node.js • Express • MongoDB • OpenAI
+
+Features
+
+- AI Blog Generation
+- Authentication
+- CMS
+- Responsive Design
+
+---
+
+## 🍽 Food Product Authenticator
+
+OCR-based food license verification system.
+
+Features
+
+- OCR Extraction
+- License Validation
+- Fraud Detection
+- Admin Dashboard
+
+---
+
+## 📊 Placement Tracker
+
+Track
 
 - DSA
-- Aptitude
 - SQL
-- Operating Systems
+- Aptitude
 - DBMS
-- Computer Networks
+- OS
+- CN
 - System Design
 
-Built to track daily consistency and placement preparation progress.
+Built for consistency during placement preparation.
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-- Advanced RAG Architectures
-- Agentic AI Systems
-- LangGraph Workflows
-- System Design
-- Backend Scalability
-- MLOps Fundamentals
+```text
+✔ Agentic AI
+✔ Advanced RAG
+✔ LangGraph
+✔ System Design
+✔ MLOps
+✔ Kubernetes Basics
+```
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rithishkumar7&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithishkumar7&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithishkumar7&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rithishkumar7&show_icons=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithishkumar7" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithishkumar7&theme=tokyo-night"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithishkumar7&layout=compact" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+# 🌟 Quote
 
-- 📧 Email: rithishjanjeerapu007@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/Rithish_janjeerapu
-- 🌐 Portfolio: https://portfolio-beige-two-m2omb91jqv.vercel.app/
-- 🐙 GitHub: https://github.com/Rithishkumar7
+> **"Consistency compounds. One commit, one problem, one project at a time."**
 
 ---
 
-### "Consistency compounds. One commit, one problem, one project at a time."
+<div align="center">
+
+### Thanks for visiting! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
