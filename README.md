@@ -214,11 +214,11 @@ Built for consistency during placement preparation.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rithishkumar7&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rithishkumar7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithishkumar7&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithishkumar7&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithishkumar7&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Rithishkumar7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
