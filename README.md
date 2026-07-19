@@ -212,24 +212,22 @@ Built for consistency during placement preparation.
 
 # 📈 GitHub Analytics
 
+# 📊 GitHub Stats
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rithishkumar7&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rithishkumar7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithishkumar7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=Rithishkumar7&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithishkumar7&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 📊 GitHub Metrics
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithishkumar7&theme=tokyo-night"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rithishkumar7&theme=tokyonight"/>
 </p>
 
 ---
