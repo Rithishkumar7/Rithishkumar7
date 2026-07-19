@@ -1,247 +1,199 @@
+# Hi, I'm Rithish Janjeerapu 👋
+
 <div align="center">
 
-# Hi 👋, I'm Rithish Janjeerapu
+### AI Enthusiast | Full Stack Developer | Computer Science Student
 
-### AI Engineer • Full Stack Developer • Computer Science Student
+Building intelligent applications with AI, modern web technologies, and scalable software solutions.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Building+AI+Applications;Generative+AI+Developer;Full+Stack+Engineer;Always+Learning+🚀" />
+</div>
 
-<p>
-<a href="https://portfolio-beige-two-m2omb91jqv.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+---
+
+## 🚀 About Me
+
+I'm a Computer Science undergraduate passionate about developing real-world software products and AI-powered applications.
+
+My interests lie at the intersection of:
+
+- 🤖 Artificial Intelligence & Generative AI
+- 🌐 Full Stack Web Development
+- 📊 Data Analytics & Visualization
+- 🧠 Problem Solving & Algorithms
+- ☁️ Building Scalable Applications
+
+I enjoy transforming ideas into functional products while continuously learning new technologies and engineering best practices.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering (Computer Science)**  
+Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad  
+**CGPA:** 8.61
+
+**Diploma in Computer Science**  
+Govt. Institute of Electronics, Telangana  
+**GPA:** 9.5 / 10
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+### AI & Data Science
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+---
+
+## 📈 Coding Achievements
+
+🏆 Solved **500+ LeetCode Problems**
+
+⭐ 4-Star in Problem Solving on HackerRank
+
+⭐ 3-Star in SQL on HackerRank
+
+🥈 Rank **2449** in Amazon ML Challenge 2025
+
+🎖 Special Mention - Hacktober Fest Hackathon @ CBIT
+
+---
+
+## 🔥 Featured Projects
+
+### 📄 Multi-Format Document RAG System
+
+AI-powered Retrieval-Augmented Generation system supporting multiple document formats.
+
+**Tech Stack:** LangChain, FAISS, Groq, Llama 3.1, Streamlit
+
+**Features**
+- Multi-format document ingestion
+- Semantic search using embeddings
+- Context-aware question answering
+- Efficient vector retrieval
+
+---
+
+### 📝 AI-Powered Blog Website
+
+Full-stack blogging platform with AI-assisted content generation.
+
+**Tech Stack:** React, Node.js, Express, MongoDB, OpenAI/Eden AI
+
+**Features**
+- Intelligent blog generation
+- Modern responsive UI
+- User authentication
+- Content management system
+
+---
+
+### 🍽 Food Product Authenticator Using OCR
+
+OCR-based verification system for food license authentication.
+
+**Features**
+- Automated text extraction
+- License validation
+- Fraud detection support
+- Dashboard for verification monitoring
+
+---
+
+### 📊 Placement Tracker
+
+Comprehensive preparation dashboard for:
+
+- DSA
+- Aptitude
+- SQL
+- Operating Systems
+- DBMS
+- Computer Networks
+- System Design
+
+Built to track daily consistency and placement preparation progress.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced RAG Architectures
+- Agentic AI Systems
+- LangGraph Workflows
+- System Design
+- Backend Scalability
+- MLOps Fundamentals
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rithishkumar7&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithishkumar7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithishkumar7&layout=compact" />
+</p>
+
+---
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:rithishjanjeerapu007@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/Rithish_janjeerapu">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:rithishjanjeerapu007@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<a href="https://portfolio-beige-two-m2omb91jqv.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rithishkumar7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://codolio.com/profile/rithesh7">
+<img src="https://img.shields.io/badge/Codolio-Coding%20Profile-6C63FF?style=for-the-badge"/>
 </a>
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Rithishkumar7&style=flat-square&color=green"/>
-
-</div>
-
 ---
 
-# 💫 About Me
-
-💻 Computer Science undergraduate passionate about building **AI-powered software** and **full-stack applications**.
-
-I enjoy solving real-world problems using
-
-- 🤖 Generative AI
-- 🧠 Machine Learning
-- 🌐 Full Stack Development
-- 📊 Data Analytics
-- ☁️ Cloud-ready Applications
-
-Currently exploring
-
-- Agentic AI
-- Advanced RAG
-- LangGraph
-- MLOps
-- Backend System Design
-
----
-
-# 🎓 Education
-
-### Chaitanya Bharathi Institute of Technology (CBIT)
-
-**B.E. Computer Science**
-
-CGPA **8.61**
-
-### Government Institute of Electronics
-
-**Diploma in Computer Science**
-
-GPA **9.5/10**
-
----
-
-# 🚀 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,mysql"/>
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
-
-## AI / ML
-
-<p>
-
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangGraph-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Groq-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Llama3.1-green?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-🏅 Solved **500+ LeetCode Problems**
-
-⭐ 4★ Problem Solving — HackerRank
-
-⭐ 3★ SQL — HackerRank
-
-🥈 **Amazon ML Challenge 2025**
-Rank **2449**
-
-🎖 Special Mention — Hacktober Fest Hackathon @ CBIT
-
----
-
-# 🔥 Featured Projects
-
-## 📄 Multi-Format Document RAG System
-
-> AI-powered Retrieval-Augmented Generation platform supporting multiple document formats.
-
-**Tech**
-
-`LangChain` `FAISS` `Groq` `Llama 3.1` `Streamlit`
-
-✨ Features
-
-- Multi-format ingestion
-- Semantic Search
-- Context-aware QA
-- Vector Database Retrieval
-
----
-
-## 🧠 AI Meeting & Lecture Intelligence Platform *(Upcoming)*
-
-An enterprise AI assistant that combines
-
-- WhisperX
-- Speaker Diarization
-- RAG
-- Semantic Search
-- Knowledge Graph
-- Analytics Dashboard
-- Meeting Intelligence
-
----
-
-## 📝 AI Blog Platform
-
-AI-assisted blogging platform.
-
-Tech Stack
-
-React • Node.js • Express • MongoDB • OpenAI
-
-Features
-
-- AI Blog Generation
-- Authentication
-- CMS
-- Responsive Design
-
----
-
-## 🍽 Food Product Authenticator
-
-OCR-based food license verification system.
-
-Features
-
-- OCR Extraction
-- License Validation
-- Fraud Detection
-- Admin Dashboard
-
----
-
-## 📊 Placement Tracker
-
-Track
-
-- DSA
-- SQL
-- Aptitude
-- DBMS
-- OS
-- CN
-- System Design
-
-Built for consistency during placement preparation.
-
----
-
-# 📚 Currently Learning
-
-```text
-✔ Agentic AI
-✔ Advanced RAG
-✔ LangGraph
-✔ System Design
-✔ MLOps
-✔ Kubernetes Basics
-```
-
----
-
-# 📈 GitHub Analytics
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rithishkumar7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithishkumar7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rithishkumar7&theme=tokyonight"/>
-</p>
-
----
-
-# 🌟 Quote
-
-> **"Consistency compounds. One commit, one problem, one project at a time."**
-
----
-
-<div align="center">
-
-### Thanks for visiting! ⭐
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</div>
+### "Consistency compounds. One commit, one problem, one project at a time." beautify it github preifle
